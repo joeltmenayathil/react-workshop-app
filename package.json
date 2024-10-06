@@ -66,7 +66,7 @@
     "@mapbox/rehype-prism": "^0.8.0",
     "@mdx-js/loader": "^2.1.1",
     "@reach/tabs": "^0.14.0",
-    "@reach/tooltip": "^0.14.0",
+    "@reach/tooltip": "^0.18.0",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.0.1",
     "@types/react": "^18.0.0",
