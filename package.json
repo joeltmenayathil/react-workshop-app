@@ -81,7 +81,7 @@
     "history": "^4.10.1",
     "is-ci": "^3.0.0",
     "mq-polyfill": "^1.1.8",
-    "msw": "^0.28.1",
+    "msw": "^2.0.0",
     "node-match-path": "^0.6.2",
     "normalize.css": "^8.0.1",
     "raw-loader": "^4.0.2",
