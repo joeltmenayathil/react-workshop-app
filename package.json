@@ -63,7 +63,7 @@
   "dependencies": {
     "@babel/runtime": "^7.13.10",
     "@emotion/core": "^10.0.35",
-    "@mapbox/rehype-prism": "^0.8.0",
+    "@mapbox/rehype-prism": "^0.9.0",
     "@mdx-js/loader": "^2.1.1",
     "@reach/tabs": "^0.14.0",
     "@reach/tooltip": "^0.14.0",
@@ -81,7 +81,7 @@
     "history": "^4.10.1",
     "is-ci": "^3.0.0",
     "mq-polyfill": "^1.1.8",
-    "msw": "^0.28.1",
+    "msw": "^2.2.0",
     "node-match-path": "^0.6.2",
     "normalize.css": "^8.0.1",
     "raw-loader": "^4.0.2",
