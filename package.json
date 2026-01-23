@@ -64,7 +64,7 @@
     "@babel/runtime": "^7.13.10",
     "@emotion/core": "^10.0.35",
     "@mapbox/rehype-prism": "^0.8.0",
-    "@mdx-js/loader": "^2.1.1",
+    "@mdx-js/loader": "^3.0.0",
     "@reach/tabs": "^0.14.0",
     "@reach/tooltip": "^0.14.0",
     "@testing-library/jest-dom": "^5.16.4",
